@@ -1,0 +1,32 @@
+.places {
+  display: grid;
+  grid-template-columns: 1 fr;
+  margin-top: 92px;
+  margin-left: 148px;
+  margin-right: 148px;
+  row-gap: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    margin-left: 24px;
+    margin-right: 24px;
+    row-gap: 73px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 64px;
+    row-gap: 50px;
+  }
+}
