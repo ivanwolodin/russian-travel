@@ -1,0 +1,14 @@
+.cover {
+  display: flex;
+  margin-top: 92px;
+  position: relative;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
