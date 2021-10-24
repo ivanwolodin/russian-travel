@@ -1,4 +1,4 @@
-.place__website {
+.website {
     grid-area: place_website;
     list-style-type: none;
     padding-left: 0;
@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .place__website {
+    .website {
         margin-left: 16px;
         margin-right: 16px;
     }
