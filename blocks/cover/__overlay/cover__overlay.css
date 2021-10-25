@@ -1,5 +1,6 @@
 .cover__overlay {
   background-image: url(../../../images/cover-trains.jpg);
+  text-decoration: none;
   width: 100vw;
   height: 62.5vw;
   background-size: cover;
