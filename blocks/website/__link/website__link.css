@@ -1,4 +1,6 @@
 .website__link {
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 400;
   color: #ffffff;
   font-size: 18px;
   line-height: 22px;

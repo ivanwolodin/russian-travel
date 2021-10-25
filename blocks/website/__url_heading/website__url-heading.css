@@ -1,4 +1,6 @@
 .website__url-heading {
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 400;
   padding-bottom: 12px;
   color: #aaaaaa;
   font-size: 12px;
