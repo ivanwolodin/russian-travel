@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 400;
   color: #ffffff;
@@ -6,7 +6,7 @@
   line-height: 22px;
 }
 
-.website__link:hover {
+.place__link:hover {
   opacity: 0.8;
   transition: opacity 0.3s linear;
 }

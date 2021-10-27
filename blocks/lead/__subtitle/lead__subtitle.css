@@ -8,10 +8,19 @@
   line-height: 36px;
   margin-top: 32px;
   margin-bottom: 0;
+  width: 640px;
 }
 
-.lead__subtitle:last-of-type {
-  margin-top: 0;
+@media screen and (max-width: 641px) {
+  .lead__subtitle {
+    width: 440px;
+  }
+}
+
+@media screen and (max-width: 445px) {
+  .lead__subtitle {
+    width: 288px;
+  }
 }
 
 @media screen and (max-width: 320px) {
